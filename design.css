@@ -1,0 +1,51 @@
+body
+{
+  margin-top: 3.5rem;
+}
+button
+{
+  width: 4.5rem;
+  height: 4.5rem;
+  color: rgb(7, 7, 7);
+  background-color: white;
+  border: 0.01rem solid black;
+  font-size: 4rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+.gamecontain
+{
+  margin-top: 2.5rem;
+  width: 20rem;
+  height: 20rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 0.1rem;
+}
+#re
+{
+  margin-top: 0.5rem;
+  width: 4rem;
+  height: 1.5rem;
+  background-color: red;  
+  border: 0.01rem solid black;
+  border-radius: 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.hea
+{
+  color: rgb(20, 225, 13);
+  font-weight: bold;
+}
+#win
+{
+  font-weight: bold;
+}
