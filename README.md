@@ -1,0 +1,1 @@
+A Tic Tac Toe game developed using HTML, CSS, and JavaScript. This project is an enhanced version of the classic Tic Tac Toe, featuring a larger grid that increases the level of strategy and challenge. The game supports two-player gameplay with smooth turn switching, real-time win detection across rows, columns, and diagonals, and a clean, responsive user interface.
